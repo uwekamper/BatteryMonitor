@@ -1,4 +1,7 @@
-# Installation instructions # 
+Installation instructions
+=========================
+
+This is the server part of the Battery Monitor
 
   virtualenv --distribute --no-site-packages .
   source bin/activate
